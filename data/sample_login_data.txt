@@ -1,0 +1,4 @@
+admin_user,ChangeMe123!,administrator,A123001
+student_user,ChangeMe123!,student,S123001
+coord_user,ChangeMe123!,programme coordinator,C123001
+leader_user,ChangeMe123!,programme leader,L123001
