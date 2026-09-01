@@ -1,8 +1,0 @@
-1,1,administrator,s136500
-2,2,student,s136500
-4,4,programme coordinator,S501000
-hamed,ha@med12,student,S508000
-khush,@t37F1sh,student,S501100
-abdulrahaman,abdulr@hman1,student,S121000
-ibragim,ibrahim!21@,student,S709000
-shady,sh@dy7be,programme leader,A501900

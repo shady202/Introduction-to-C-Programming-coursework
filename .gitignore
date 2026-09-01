@@ -1,0 +1,22 @@
+# Build outputs
+bin/*
+!bin/.gitkeep
+*.o
+*.obj
+*.out
+*.exe
+
+# Runtime-generated local files (if created during runs)
+*.log
+runtime_data/*.txt
+
+# IDE/editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db

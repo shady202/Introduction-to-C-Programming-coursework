@@ -1,0 +1,6 @@
+math,30,core
+english,30,core
+CTF,20,Elective
+WAY_OF_TALKING,1,Talk
+new,20,elective
+FUTSAL,10,Competition

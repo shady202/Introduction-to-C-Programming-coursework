@@ -1,7 +1,0 @@
-S501000,math,Elective,30
-S501000,CTF,Talk,1
-S501002,math,Club,7
-S501002,math,Elective,30
-S501000,B2,Competition,10
-S501002,math,Talk,1
-S501002,math,Club,7
